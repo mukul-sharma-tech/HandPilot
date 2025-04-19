@@ -2,7 +2,7 @@
 This project uses computer vision and hand gesture recognition to control the mouse cursor and simulate mouse events such as left click, right click, double click, and scrolling using hand gestures. It also includes a 3D overlay visualization of the hand using MediaPipe.
 
 📽️ Demo
-<img src="https://www.linkedin.com/posts/mukul-sharma-830a152b2_ai-computervision-gesturecontrol-activity-7309922207214825473-Kyys?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtBz2QBZ3-aq9VHReVvW2227J9ZyVQgHuQ" alt="Live Demo Badge">
+<img src="https://www.linkedin.com/posts/mukul-sharma-830a152b2_ai-computervision-gesturecontrol-activity-7309922207214825473-Kyys?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtBz2QBZ3-aq9VHReVvW2227J9ZyVQgHuQ" alt="Live Demo">
 A webcam video feed is used to track hand landmarks in real time. Your index finger controls the mouse cursor, and gestures control mouse actions.
 
 🧠 Features
